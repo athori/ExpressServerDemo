@@ -9,5 +9,5 @@ app.use(express.static('public'))
 // app.get('/',(req, res)=>{
 //     res.sendFile(path.join(__dirname + "/about.html"));
 // })
-app.listen(3001);
+app.listen(3000);
 console.log(__dirname);
